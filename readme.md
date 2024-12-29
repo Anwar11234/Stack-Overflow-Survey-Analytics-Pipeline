@@ -3,7 +3,7 @@
 This project analyzes data from Stack Overflow's 2024 Developer Survey to gain insights into:  
 - **Popular technologies** across different job roles.  
 - **Developers' salaries** by job title, programming languages, and years of experience.  
-- **Comparisons** of trends and patterns with data from previous years.  
+- **Comparisons** of trends and patterns with data from last year.  
 
 ## Tools and Technologies  
 - **Data Extraction and Transformation**: Python  
