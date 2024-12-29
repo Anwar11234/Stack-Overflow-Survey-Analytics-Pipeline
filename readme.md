@@ -21,7 +21,7 @@ This project analyzes data from Stack Overflow's 2024 Developer Survey to gain i
    - **Fact Table**: Granularity of one row per survey response.  
    - **Developer Dimension**: Includes attributes such as: developer status, job role, industry, organization size, and work environment (remote/hybrid/in-person).  
    - **Employment Status Table**: Handles the multivalued employment statuses associated with a response.  
-   - **Technology Table**: Similar to `Employment Status` Table, it handles the multiple technologies accociated with one response. It has attributes such as technology name and technology type (e.g., programming language, database, web framework).  
+   - **Technology Table**: Similar to `Employment Status` Table, it handles the multiple technologies associated with one response. It has attributes such as technology name and technology type (e.g., programming language, database, web framework).  
 
 ![Data Model](Data-Model/Data%20model.png)
 
